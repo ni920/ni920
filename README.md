@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning python 
 - 💬 Ask me about anything ...
 - 📫 You can reach me on:  
-    - [LinkedIn](https://www.linkedin.com/in/nico-saia-166395156/) or [Xing](https://www.xing.com/profile/Nico_Saia/cv)
+    - [LinkedIn](www.linkedin.com/in/nico-saia) or [Xing](https://www.xing.com/profile/Nico_Saia/cv)
