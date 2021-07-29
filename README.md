@@ -1,7 +1,7 @@
 ### Hi there 👋 my Name is Nico
 <br>
 
-- 🔭 I'm currently studying computer science in germany 
+- 🔭 I'm a computer scientist from germany
 - 🌱 I’m currently learning CI/CD
 - 💬 Ask me about anything ...
 
@@ -15,13 +15,8 @@
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 
-
-
-
 <br>
 <br>
-<br>
-
 
 ### Languages and Tools:
 
@@ -41,14 +36,15 @@
 
 <br>
 <br>
-<br>
 
-
+### Github Stats:
 [![Ni920's GitHub stats](https://github-readme-stats.vercel.app/api?username=ni920&hide=stars,prs&theme=synthwave)](https://github.com/ni920/github-readme-stats)
 
 
-
-
+### Random Joke:
+ 
+ <td style="padding-top:4px"><img src = "https://readme-jokes.vercel.app/api?theme=synthwave"></td>
+ 
 
 [linkedin]: https://www.linkedin.com/in/nico-saia/
 [xing]: https://www.xing.com/profile/Nico_Saia/cv
