@@ -40,5 +40,5 @@
 
 
 
-[linkedin]: www.linkedin.com/in/nico-saia
+[linkedin]: https://www.linkedin.com/in/nico-saia/
 [xing]: https://www.xing.com/profile/Nico_Saia/cv
