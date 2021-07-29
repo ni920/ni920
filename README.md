@@ -6,8 +6,6 @@
 - 💬 Ask me about anything ...
 
 <br>
-<br>
-<br>
 
 ### Connect with me:
 
