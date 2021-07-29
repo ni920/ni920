@@ -41,7 +41,7 @@
 <br>
 
 
-[![Ni920's GitHub stats](https://github-readme-stats.vercel.app/api?username=ni920&hide=stars,prs)](https://github.com/ni920/github-readme-stats)
+[![Ni920's GitHub stats](https://github-readme-stats.vercel.app/api?username=ni920&hide=stars,prs&theme=synthwave)](https://github.com/ni920/github-readme-stats)
 
 
 
