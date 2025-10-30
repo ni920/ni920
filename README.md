@@ -1,47 +1,47 @@
-### Hi there 👋 my Name is Nico
-<br>
+<h1 align="center">👋 Hi, I'm Nico Saia</h1>
 
-- 🔭 I'm a computer scientist from germany
-- 🌱 I’m currently learning CI/CD
-- 💬 Ask me about anything ...
+<p align="center">
+  <b>Computer Scientist from Germany • DevOps Engineer • Maker</b>
+</p>
 
-<br>
+---
 
-### Connect with me:
+### About Me  
+- 🎯 Passionate about automation, data, and clean system design  
+- 🧩 Focused on building modular and maintainable solutions  
+- 💡 Always exploring new technologies and optimization strategies  
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+---
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.nico-saia.com"><img alt="Website" src="https://img.shields.io/badge/Website-nico--saia.com-181717?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nico-saia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nico%20Saia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.xing.com/profile/Nico_Saia/cv"><img alt="Xing" src="https://img.shields.io/badge/Xing-Nico%20Saia-026466?style=for-the-badge&logo=xing&logoColor=white"></a>
+</p>
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+---
 
-<br>
-<br>
+### 🛠️ Tech Stack  
 
-### Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,docker,linux,vscode,html,css,bootstrap" />
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br/>
-<br/>
+---
 
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ni920&show_icons=true&hide=prs&theme=transparent&rank_icon=github&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni920&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
 
+---
 
-### Github Stats:
-[![Ni920's GitHub stats](https://github-readme-stats.vercel.app/api?username=ni920&hide=stars,prs&theme=synthwave)](https://github.com/ni920/github-readme-stats)
+### 💻 Environment  
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux&logoColor=white">
+</p>
 
-
-### Random Joke:
- 
- <td style="padding-top:4px"><img src = "https://readme-jokes.vercel.app/api?theme=synthwave"></td>
- 
-
-[linkedin]: https://www.linkedin.com/in/nico-saia/
-[xing]: https://www.xing.com/profile/Nico_Saia/cv
+---
